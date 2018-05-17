@@ -1,4 +1,5 @@
 //Ramachandran 110117067
+//S 110117067
 #include<stdio.h>
 int main(){
     int a[10] = {3,9,16,2,4,18,5,99,7,17};
